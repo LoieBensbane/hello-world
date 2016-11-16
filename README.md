@@ -2,11 +2,12 @@
 
 Twenty-nine year old art school graduate that finally woke up.
 
-I've backed myself into a corner being the only remotely techie person in a growing family-bakery turned regional-wholesaler.. 
-I just wanted to frost cakes, but it turns out I'm better with numbers and spreadsheets than I remember being a decade ago..
+I've backed myself into a corner being the only remotely techie person in a growing family-bakery turned regional-wholesaler. 
+
+I just wanted to frost cakes, but it turns out I'm better with numbers and spreadsheets than I remember being a decade ago.
 I started working here about a year ago. I started itemizing the inventory 11 months ago.
 Now I'm the assistant manager to my former assistant manager.
-I do invoicing, ordering, and receiving in addition to my original job frosting cakes and helping customers.
+I do inventory management, invoicing, ordering, and receiving in addition to my original job frosting cakes and helping customers.
 
 Perhaps I'm taking "write a bit about yourself" too literally.
 
@@ -14,7 +15,8 @@ Sorry.
 
 Code learning will be slow until it's useful for my day to day.
 
-  Goals:
+   Goals:
+    
     Figure out wtf GitHub is all about
     
     Learn Python
